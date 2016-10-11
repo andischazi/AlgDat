@@ -2,7 +2,7 @@ Mein erstes Git-Repo
 ====================
 Autoren
 =======
-...
+Andrea Limmer
 Compilieren
 ===========
 Zum Compilieren benötigen Sie einen C++-Compiler.
